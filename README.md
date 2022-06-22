@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @donapeqo
-- 👀 I’m interested in salesforce development and rust.
+- 👀 I’m interested in salesforce dev and data analytics
 - 🌱 I’m currently learning salesforce development
 - 💞️ I’m looking to collaborate in the near future.
 - 📫 How to reach me @donapeqo twitter.
