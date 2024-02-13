@@ -1,4 +1,6 @@
-👋 Hi, I’m @donapeqo. Ping me at X and let me know your fav dessert.
+👋 Hi, I’m @donapeqo. 
+Currently on SFDX and Move.
+Ping me at X and let me know your fav dessert.
   
 
 <!---
